@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/developer6/Documents/Reto_%20Mobiik/mlruns/178987020853807978/c615ac872a07447885302e675440e5b9/artifacts
+end_time: 1694458440790
+entry_point_name: ''
+experiment_id: '178987020853807978'
+lifecycle_stage: active
+run_id: c615ac872a07447885302e675440e5b9
+run_name: glamorous-bug-754
+run_uuid: c615ac872a07447885302e675440e5b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694458439451
+status: 3
+tags: []
+user_id: developer6

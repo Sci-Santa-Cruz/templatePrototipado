@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/developer6/Documents/Reto_%20Mobiik/mlruns/142584559283809992/b522de47e9044105bcfda63a2e3c6556/artifacts
+end_time: 1694457001876
+entry_point_name: ''
+experiment_id: '142584559283809992'
+lifecycle_stage: active
+run_id: b522de47e9044105bcfda63a2e3c6556
+run_name: caring-squirrel-588
+run_uuid: b522de47e9044105bcfda63a2e3c6556
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694457000915
+status: 3
+tags: []
+user_id: developer6
